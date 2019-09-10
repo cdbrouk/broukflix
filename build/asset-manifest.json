@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/broukflix/static/js/main.c3d48c63.chunk.js",
+    "main.js.map": "/broukflix/static/js/main.c3d48c63.chunk.js.map",
+    "runtime~main.js": "/broukflix/static/js/runtime~main.9ecf2ea6.js",
+    "runtime~main.js.map": "/broukflix/static/js/runtime~main.9ecf2ea6.js.map",
+    "static/js/2.cfc39470.chunk.js": "/broukflix/static/js/2.cfc39470.chunk.js",
+    "static/js/2.cfc39470.chunk.js.map": "/broukflix/static/js/2.cfc39470.chunk.js.map",
+    "index.html": "/broukflix/index.html",
+    "precache-manifest.974a34a9c0ad7e2f2dafe7c76ff7510a.js": "/broukflix/precache-manifest.974a34a9c0ad7e2f2dafe7c76ff7510a.js",
+    "service-worker.js": "/broukflix/service-worker.js",
+    "static/media/noPoster.png": "/broukflix/static/media/noPoster.151130cc.png"
+  }
+}
