@@ -250,7 +250,7 @@ const DetailPresenter = ({ result, loading, error }) =>
                 type="text/html"
                 width="480"
                 height="270"
-                src={`http://www.youtube.com/embed/${result.videos.results[0].key}`}
+                src={`https://www.youtube.com/embed/${result.videos.results[0].key}`}
               />
             </>
           )}
